@@ -18,8 +18,12 @@ Vinci Market is my group graduate project at Institut Paul Lambin. It's a SPA we
 * Animated tutorial that makes using this app so much easierr!
 
 ### Technologies
+Frontend : 
 * JS Vue 
 * Javascript
+Backend : 
+* Django
+* Python
 
 ### Launch
 Deployed on Heroku at  : https://pfe-groupe7-frontend.herokuapp.com/
