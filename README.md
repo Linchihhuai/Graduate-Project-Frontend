@@ -1,24 +1,23 @@
-# vinci_market_frontend
+# vinci_market
 
-## Project setup
-```
-npm install
-```
+* [Introduction](#Introduction)
+* [Features](#Features)
+* [Technologies](#Technologies)
+* [Launch](#Launch)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Introduction
+Vinci Market is my group graduate project at Institut Paul Lambin. It's a SPA web application that allows users to sell and buy second hand items. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Features
+* Create items to sell including photos.
+* Manage and visualize items uplaoded.
+* See what other users have in store.
+* Filter and search easily the types of items that you are looking for.
+* Animated tutorial that makes using this app so much easierr!
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Technologies
+* JS Vue 
+* Javascript
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Launch
+Deployed on Heroku at  : https://pfe-groupe7-frontend.herokuapp.com/
