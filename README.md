@@ -15,7 +15,7 @@ Vinci Market is my group graduate project at Institut Paul Lambin. It's a SPA we
 * Manage and visualize items uplaoded.
 * See what other users have in store.
 * Filter and search easily the types of items that you are looking for.
-* Animated tutorial that makes using this app so much easierr!
+* Animated tutorial that makes using this app so much easier!
 
 ### Technologies
 Frontend : 
