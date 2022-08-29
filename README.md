@@ -11,7 +11,7 @@
 Vinci Market is my group graduate project at Institut Paul Lambin. It's a SPA web application that allows users to sell and buy second hand items. 
 
 ### Features
-* Create items to sell including photos.
+* Create items to sell.
 * Manage and visualize items uplaoded.
 * See what other users have in store.
 * Filter and search easily the types of items that you are looking for.
